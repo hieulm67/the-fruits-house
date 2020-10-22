@@ -1,0 +1,6 @@
+1,Apple,2.0,190,US
+2,Mango,5.0,500,Taiwan
+3,Banana,3.0,500,Thailand
+4,Strawberry,7.0,100,Vietnam
+5,Blueberry,10.0,100,Canada
+0,Coconut,6.0,90,Indo

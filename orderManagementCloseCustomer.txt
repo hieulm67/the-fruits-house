@@ -1,0 +1,130 @@
+hieupt:
+ID:4
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:630.0
+Status:Complete
+1,Apple,2.0,100,US
+2,Mango,5.0,100,Taiwan
+ID:3
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:200.0
+Status:Complete
+1,Apple,2.0,100,US
+ID:2
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:43.0
+Status:Complete
+3,Banana,3.0,6,Thailand
+2,Mango,5.0,5,Taiwan
+ID:1
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:100.0
+Status:Complete
+5,Blueberry,10.0,10,Canada
+ID:0
+Order Day:25/03/2020
+Complete Day:3/4/2020
+Saler:Saler full time
+Total:10.0
+Status:In process
+1,Apple,2.0,5,US
+tindd:
+ID:6
+Order Day:02/04/2020
+Complete Day:05/04/2020
+Saler:Saler full time
+Total:160.0
+Status:In process.
+1,Apple,2.0,100,US
+ID:5
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:140.0
+Status:In process.
+1,Apple,2.0,100,US
+ID:4
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:350.0
+Status:Complete
+4,Strawberry,7.0,100,Vietnam
+ID:3
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:38.4
+Status:Complete
+0,Coconut,6.0,6,Indo
+4,Strawberry,7.0,4,Vietnam
+ID:2
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:70.0
+Status:Complete
+4,Strawberry,7.0,10,Vietnam
+ID:1
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:20.0
+Status:Complete
+1,Apple,2.0,5,US
+2,Mango,5.0,2,Taiwan
+ID:0
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:30.0
+Status:Complete
+1,Apple,2.0,5,US
+2,Mango,5.0,2,Taiwan
+5,Blueberry,10.0,1,Canada
+longpt:
+ID:4
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:30.0
+Status:Complete
+3,Banana,3.0,10,Thailand
+ID:3
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:50.0
+Status:Complete
+2,Mango,5.0,10,Taiwan
+ID:2
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:60.0
+Status:Complete
+0,Coconut,6.0,10,Indo
+ID:1
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:110.0
+Status:Complete
+5,Blueberry,10.0,10,Canada
+1,Apple,2.0,5,US
+ID:0
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:70.0
+Status:Complete
+1,Apple,2.0,5,US
+5,Blueberry,10.0,6,Canada

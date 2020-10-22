@@ -1,0 +1,18 @@
+0987654321:
+ID:0
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:45.0
+Status:Complete
+5,Blueberry,10.0,3,Canada
+3,Banana,3.0,5,Thailand
+1234564789:
+ID:0
+Order Day:25/03/2020
+Complete Day:28/03/2020
+Saler:Saler full time
+Total:80.0
+Status:In process.
+1,Apple,2.0,10,US
+0,Coconut,6.0,10,Indo

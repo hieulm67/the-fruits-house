@@ -1,0 +1,16 @@
+admin,admin, , ,Admin, , , 
+
+hieulm,123,Hieu,1234567890,Admin,24/12/2000,123 Q9,hieu@gmail.com
+
+longlb,123,long,1234567890,Admin,8/8/2000,123 QPN,long@gmail.com
+
+nguyennk,123,nguyen,0987655321,Saler,2/2/2000,123 Q2,nguyen@gmail.com
+
+longpt,123,long,0987654321,Close Customer,1/1/2000,123 QPN,longpt@gmail.com,Gold,748.8
+Discount 100%,Discount 100%
+tindd,123,tin,0987654321,Close Customer,3/3/2000,123 Q4,tin@gmail.com,Gold,952.4
+
+hieupt,123,Hieu,0987654321,Close Customer,12/12/2000,123 Q8,hieupt@gmail.com,Gold,883.0
+
+minhtn,123,minh,1234567890,Admin,12/12/2000,123 QBT,minh@gmai.com
+
